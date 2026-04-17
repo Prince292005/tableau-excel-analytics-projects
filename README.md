@@ -43,5 +43,12 @@ This repository showcases interactive dashboards built using Tableau and Excel t
 ---
 
 ## 📷 Dashboard Preview
+<img width="1426" height="758" alt="Profit_Analysis_Dashboard" src="https://github.com/user-attachments/assets/9bc4017d-c54e-441f-89b0-4e8a0ffaa975" />
 
-(Add screenshots here after uploading)
+<img width="1667" height="752" alt="sales_performance_Dashboard" src="https://github.com/user-attachments/assets/e6d443c3-a68d-48c3-98d7-ee8c7b6c539c" />
+
+<img width="1203" height="708" alt="cafeteria_rating_Dashboard" src="https://github.com/user-attachments/assets/f5e37a4b-15a3-4a09-8890-7f8dde436e50" />
+
+
+
+
